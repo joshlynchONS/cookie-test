@@ -1,0 +1,14 @@
+{
+  "_output_dir": "D:\\repos",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Joshua Lynch",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "joshua.lynch@ext.ons.gov.uk",
+  "friendly_name": "Cookie Test",
+  "github_user": "joshlynchONS",
+  "license": "MIT",
+  "package_name": "cookie_test",
+  "project_name": "cookie-test",
+  "version": "0.0.0"
+}
